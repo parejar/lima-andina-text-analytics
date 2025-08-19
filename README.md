@@ -1,2 +1,6 @@
 # lima-andina-text-analytics
-Text analytics code for the [Lima Andina](https://limandina.org/ "Lima Andina") project. A selection of analysis and visualization performed on the Lima Andina datasets containing more than 6000 El Comercio newspaper migrant asociation anouncements from 1906 to 1933
+- Text analytics code for the [Lima Andina](https://limandina.org/ "Lima Andina") project.
+- This is a selection of analysis and visualizations performed on the Lima Andina datasets that contain more than 6500 El Comercio newspaper ads published by internal migrants organizations in Lima between 1906 and 1933.
+- We have made public two datasets, "Associations" and "Articles", through the [Borealis](https://doi.org/10.5683/SP2/8IPTYQ repository "El Comercio Migrant Association Database") 
+- From the description in the repository:
+> "The first contains information on the associations, and the second contains information on advertisements published in El Comercio by those associations. These announcements typically concerned upcoming and past meetings, elections and other association activities. In aggregate, the dataset reveals patterns in association activity that in turn illuminate the history of internal migration in early-20th century Peru."
