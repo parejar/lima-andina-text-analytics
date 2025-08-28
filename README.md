@@ -13,6 +13,7 @@
 > 6. [Embeddings](https://github.com/parejar/lima-andina-text-analytics/blob/main/lima-andina-ncrustaciones.ipynb)
 - Example of a Tensorflow Embedding Projector visualization of semantic relationships in the corpus. [External link](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/parejar/ae23b9686f8fcee00091afdedb833025/raw/67548a65765cf0908fa64e7394eda7b665cf2e65/articulos_lima_andina_tensor.json)
   - Change the visualization settings to Uniform Manifold approximation and Projection (UMAP) for a more complete view of the embedding space.
-<iframe src="https://gist.github.com/parejar/ae23b9686f8fcee00091afdedb833025.js" " width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+<script src="https://gist.github.com/parejar/ae23b9686f8fcee00091afdedb833025.js">
+  
+</script>
 - DISCLAIMER: The code in this repository is made available only as a way of documenting the Digital Humanities side of the project. You can download the Jupyter notebooks and experiment with them at your own risk. The dataset that we used in these notebooks is different from the dataset available in Borealis but contain the same textual information in terms of the newspaper ads. Here we use a somewhat untidy dataset to illustrate data cleaning techniques.   
