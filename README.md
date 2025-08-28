@@ -4,7 +4,7 @@
 - We have made public two datasets, "Associations" and "Articles", through the [Borealis](https://doi.org/10.5683/SP2/8IPTYQ "El Comercio Migrant Association Database") repository.
 - From the description in the Borealis repository:
 > "The first contains information on the associations, and the second contains information on advertisements published in El Comercio by those associations. These announcements typically concerned upcoming and past meetings, elections and other association activities. In aggregate, the dataset reveals patterns in association activity that in turn illuminate the history of internal migration in early-20th century Peru."
->Table of contents
+- Table of contents
 > 1. [Exploratory analysis and visualizations](https://github.com/parejar/lima-andina-text-analytics/blob/main/lima-andia-exploracion-datos.ipynb)
 > 2. [Pre-processing](/blob/master/lima-andia-preprocesamiento-texto.ipynb)
 > 3. [Named Entities](/blob/master/lima-andina-entidades-nombradas.ipynb)
